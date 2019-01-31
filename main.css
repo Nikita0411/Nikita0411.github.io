@@ -93,7 +93,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<title>Amandeep Bhupal| Profile</title>
+<title>Nikita Dhok| Profile</title>
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -273,8 +273,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						 </div>
 				  </div>
 				 <div class="icon-info">
-						 <h4>Bank Guarantee Management System</h4>							
-						 <p>Design and Development of a “Bank Guarantee Management System” using .NET, C#, SQLServer</p>
+						 <h4>Melghat WildLife Information System</h4>							
+						 <p>Design and Development of a “Melghat WildLife Information System” using java,Android Studio,Firebase</p>
 				 </div>
 				 <div class="clearfix"></div>
 			 </div>
@@ -284,14 +284,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<span class="glyphicon glyphicon-stats" aria-hidden="true"></span>
 						 </div>
 				  </div>
-				  <div class="icon-info">
-						<h4>Smart City IOT</h4>						 
-						<p>Developed Smart City model using Raspberry Pi, Arduino, sensors on Java </p>
-				  </div>
-				  <div class="clearfix"></div>
-			 </div>
-			 <div class="clearfix"></div>
-		 </div>
+		         </div>
 	 </div>
 </div>
 <!--about-->
@@ -305,15 +298,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<h3>About Me</h3>
 		<h4></h4>
 		<p>
-			Hi there, I am Amandeep Bhupal, a final year Computer Science Engineering student, 
-	currently interning at Cognizant Technology Solutions Pvt. Ltd. with experience in C, Java, Web Development, IOT, .NET, C# and Python. 
-	 I am a motivated individual, with the will to gain expertise in Software Developmnent. 
-	 I keep myself updated with the latest technologies in the market, and try to gain experience in them. 
-
+			Hi there, I am Nikita Dhok, a final year Information Technology student, 
+	 currently interning at Cognizant Technology Solutions Pvt. Ltd. with knowledghe of C, Java, Web Development,My Sql. 
+	 I am a girl with a great will to study new technologies and always ready for new experiences in my life. 
+	 
 			
 			</p>
-			<a href="resume/Amandeep_Bhupal_Resume.pdf" alt="Amandeep Bhupal" class="btn btn-info" style="background-color: #3071a9" role="button" download="Resume" style="text-align: center; font-weight: bold; font-size:medium;"> Download Resume</a>
-	 </div>
+				 </div>
 	 <div class="clearfix"></div>
 </div>
 
@@ -331,9 +322,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						
 					</div>
 					<div class="experience-right">
-						<h4>B.Tech. in Computer Science & Engineering</h4>
+						<h4>B.Tech. in Information Technology</h4>
 						
-						<p>Shiv Nadar University</p><p>CGPA 8.09</p>
+						<p>Government College Of Engineering,Amravati</p><p>CGPA 8.13</p>
 					</div>
 					<div class="clearfix"> </div>
 				</div> 
@@ -343,9 +334,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						
 					</div>
 					<div class="experience-right">
-						<h4>Higher Secondary Education in Computer Science</h4>
+						<h4>Higher Secondary Education in General Science</h4>
 						
-						<p>St. Anselm's Pink City Sr. Sec. School</p><p>94.1%</p>
+						<p>Brijlal Biyani Science College,Amravati</p><p>82.92%</p>
 					</div>
 					<div class="clearfix"> </div>
 				</div>  
@@ -357,7 +348,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="experience-right">
 						<h4>Secondary Education</h4>
 						
-						<p>St. Anselm's Pink City Sr. Sec. School</p><p>95%</p>
+						<p>Elegant I.F. English Medium High School,Ner(P),Yavatmal</p><p>94.55%</p>
 					</div>
 					<div class="clearfix"> </div>
 				</div> 
@@ -415,7 +406,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<img src="images/volunteer.png" height="200px" class="img-thumbnail" class="img-responsive" alt="">
 						<div class="b-wrapper">
 							<span class="b-animate b-from-left    b-delay03 ">
-								<h4>Volunteering</h4>
+								<h4>Reading</h4>
 							</span>					
 						</div>
 					</div>				
@@ -435,24 +426,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!--<div id="blog" class="blog">
 	 <div class="container">
 		 <h3>Achievements</h3>
-		 <div class="blog-grids">
-			 <div class="col-md-4 blog-grid">
-				 
-				 <h4><a>Poster Competition on IOT</a></h4>
-					<span>March 2017</span>
-				 <p>Received first prize in poster competition of IEEE workshop on Internet of Things and Smart Cities.</p>				 
-			 </div>
-			 <div class="col-md-4 blog-grid">
-				
-				 <h4><a>Research on Visual Cryptography</a></h4>
-					<span>2014-2017</span>
-				 <p>6 Research Papers published on National & International Journals in the area of Visual Cryptography</p>
-			 </div>
+		 
 			<div class="col-md-4 blog-grid">
 				
-				<h4><a>Optimum Marks in Mathematics</a></h4>
-					<span>2011</span>
-				 <p>Got awarded for securing optimum in Mathematics in 10th grade</p>
+				<h4><a>SSC Topper</a></h4>
+					<span>2012</span>
+				 <p>Got Scholarship for securing second rank in SSC within Taluka</p>
 			 </div>
 			
 			
@@ -482,12 +461,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="touch-right-top">
 							<i class="material-icons" style="font-size:30px; color:black;">local_post_office</i>
-							<p><a href="mailto:Amandeep.Bhupal@cognizant.com">Amandeep.Bhupal@cognizant.com</a></p>
-							<p><a href="mailto:amandeepbhupal96@gmail.com">amandeepbhupal96@gmail.com</a></p>
+							<p><a href="mailto:NikitaSanjay.Dhok@cognizant.com">NikitaSanjay.Dhok@cognizant.com</a></p>
+							<p><a href="mailto:dhoknikita@gmail.com">dhoknikita@gmail.com</a></p>
 					</div>
 					<div class="touch-right-top">
 							<i class="material-icons" style="font-size:30px; color:black;">local_phone</i>
-							<p>+91-9680668899</p>
+							<p>+91-9763301431</p>
 					</div><br/>
 					
 								
@@ -501,15 +480,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </div>
 <div class="footer">
 	 <div class="container">
-		<p>Copyrights © 2018 All rights reserved |&nbsp<a href="mailto:Amandeep.Bhupal@cognizant.com" style="color:rgba(255, 255, 255, 0.59)">Amandeep Bhupal</a></p>
-		<div class="social">							
-				
-				<a href="https://www.facebook.com/amandeep.bhupal" class="fa fa-facebook"></a>
-				<a href="https://www.linkedin.com/in/amandeep-bhupal-986461143" class="fa fa-linkedin"></a>
-				<a href="https://www.instagram.com/amandeep_bhupal" class="fa fa-instagram"></a>
-				
-		 </div>
-		 
+		<p>Copyrights © 2019 All rights reserved |&nbsp<a href="mailto:NikitaSanjay.Dhok@cognizant.com" style="color:rgba(255, 255, 255, 0.59)">Amandeep Bhupal</a></p>
+		
 	 </div>
 </div>
 
